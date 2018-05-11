@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChatModel</name>
+    </assembly>
+    <members>
+        <member name="T:ChatModel.Mensagem">
+            <summary>
+            Classe com os atributos da tabela Mensagem.
+            </summary>
+        </member>
+        <member name="F:ChatModel.Mensagem.menIdMensagem">
+            <summary>
+            Chave primária da tabela mensagem.
+            </summary>
+        </member>
+        <member name="F:ChatModel.Mensagem.menDsMensagem">
+            <summary>
+            Descrição da mensagem.
+            </summary>
+        </member>
+        <member name="F:ChatModel.Mensagem.menDtEnvio">
+            <summary>
+            Data de envio da mensagem.
+            </summary>
+        </member>
+        <member name="F:ChatModel.Mensagem.usuarioEnvio">
+            <summary>
+            Usuario que está enviando a mensagem.
+            </summary>
+        </member>
+        <member name="F:ChatModel.Mensagem.usuarioDestino">
+            <summary>
+            Usuário destinatário da mensagem.
+            </summary>
+        </member>
+        <member name="P:ChatModel.Mensagem.MenIdMensagem">
+            <summary>
+            Chave primária da tabela mensagem.
+            </summary>
+        </member>
+        <member name="P:ChatModel.Mensagem.MenDsMensagem">
+            <summary>
+            Descrição da mensagem
+            </summary>
+        </member>
+        <member name="P:ChatModel.Mensagem.MenDtEnvio">
+            <summary>
+            Data de envio da mensagem.
+            </summary>
+        </member>
+        <member name="P:ChatModel.Mensagem.UsuarioEnvio">
+            <summary>
+            Usuário que está enviando a mensagem.
+            </summary>
+        </member>
+        <member name="P:ChatModel.Mensagem.UsuarioDestino">
+            <summary>
+            Usuário destinatário da mensagem.
+            </summary>
+        </member>
+        <member name="T:ChatModel.MensagemMap">
+            <summary>
+            Classe responsável por fazer o mapeamento entre o banco e o modelo lógico.
+            Tabela Mensagem.
+            </summary>
+        </member>
+        <member name="M:ChatModel.MensagemMap.#ctor">
+            <summary>
+            Método de mapeamento.
+            </summary>
+        </member>
+        <member name="T:ChatModel.Usuario">
+            <summary>
+            Classe com os atributos da tabela Usuário.
+            </summary>
+        </member>
+        <member name="F:ChatModel.Usuario.usrDsNickname">
+            <summary>
+            Chave primária da tabela usuário
+            </summary>
+        </member>
+        <member name="F:ChatModel.Usuario.usrDtAcesso">
+            <summary>
+            Data de acesso do usuário
+            </summary>
+        </member>
+        <member name="P:ChatModel.Usuario.UsrDsNickname">
+            <summary>
+            Chave primária da tabela usuário. Nickname do usuário.
+            </summary>
+        </member>
+        <member name="P:ChatModel.Usuario.UsrDtAcesso">
+            <summary>
+            Data de acesso do usuário.
+            </summary>
+        </member>
+        <member name="T:ChatModel.UsuarioMap">
+            <summary>
+            Classe responsável por fazer o mapeamento entre o banco e o modelo lógico.
+            Tabela Usuário.
+            </summary>
+        </member>
+        <member name="M:ChatModel.UsuarioMap.#ctor">
+            <summary>
+            Método de mapeamento.
+            </summary>
+        </member>
+    </members>
+</doc>

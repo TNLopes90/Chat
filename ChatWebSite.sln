@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ChatWebSite", "Interface\ChatWebSite", "{5A6E9EF3-5F48-46C7-B6D3-1D04C3715426}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{242d72a8-de04-41e1-999d-0e4a0cf6630a}|ChatModel.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56783"
+		Debug.AspNetCompiler.PhysicalPath = "Interface\ChatWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56783\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56783"
+		Release.AspNetCompiler.PhysicalPath = "Interface\ChatWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56783\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56783"
+		SlnRelativePath = "Interface\ChatWebSite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatModel", "Business\ChatModel\ChatModel.csproj", "{242D72A8-DE04-41E1-999D-0E4A0CF6630A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6E9EF3-5F48-46C7-B6D3-1D04C3715426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6E9EF3-5F48-46C7-B6D3-1D04C3715426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6E9EF3-5F48-46C7-B6D3-1D04C3715426}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6E9EF3-5F48-46C7-B6D3-1D04C3715426}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{242D72A8-DE04-41E1-999D-0E4A0CF6630A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242D72A8-DE04-41E1-999D-0E4A0CF6630A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242D72A8-DE04-41E1-999D-0E4A0CF6630A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242D72A8-DE04-41E1-999D-0E4A0CF6630A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

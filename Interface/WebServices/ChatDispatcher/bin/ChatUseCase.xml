@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChatUseCase</name>
+    </assembly>
+    <members>
+        <member name="T:ChatUseCase.ManutencaoMensagem">
+            <summary>
+            Responsável por fazer a interação entre a tabela Mensagem e o banco de dados.
+            </summary>
+        </member>
+        <member name="M:ChatUseCase.ManutencaoMensagem.Insert(ChatModel.Mensagem)">
+            <summary>
+            Inserir uma mensagem no banco.
+            </summary>
+            <param name="aoMensagem">Mensagem</param>
+            <returns>True se a mensagem foi inserida.</returns>
+        </member>
+        <member name="M:ChatUseCase.ManutencaoMensagem.Update(ChatModel.Mensagem)">
+            <summary>
+            Atualizar uma mensagem no banco.
+            </summary>
+            <param name="aoMensagem">Mensagem</param>
+            <returns>True se a mensagem foi atualizada.</returns>
+        </member>
+        <member name="T:ChatUseCase.ManutencaoUsuario">
+            <summary>
+            Responsável por fazer a interação entre a tabela Usuário e o banco de dados.
+            </summary>
+        </member>
+        <member name="M:ChatUseCase.ManutencaoUsuario.Insert(ChatModel.Usuario)">
+            <summary>
+            Inserir um usuário no banco.
+            </summary>
+            <param name="aoUsuario">Usuario</param>
+            <returns>True se o usuário foi inserida.</returns>
+        </member>
+        <member name="M:ChatUseCase.ManutencaoUsuario.Update(ChatModel.Usuario)">
+            <summary>
+            Atualizar uma usuário no banco.
+            </summary>
+            <param name="aoUsuario">Usuario</param>
+            <returns>True se a usuário foi atualizada.</returns>
+        </member>
+    </members>
+</doc>

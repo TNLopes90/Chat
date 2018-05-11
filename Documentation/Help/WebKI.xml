@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ChatModel namespace" Url="html/44ad7b77-254b-35b5-8c7d-debdaf3433ea.htm" />
+  <HelpKINode Title="ChatModel.Mensagem class" Url="html/586d3959-1dd4-6010-08a5-1f07803b92f6.htm" />
+  <HelpKINode Title="ChatModel.MensagemMap class" Url="html/d7ad9750-c7ed-cee1-4dc9-e14a57df30d6.htm" />
+  <HelpKINode Title="ChatModel.Usuario class" Url="html/ee7c2f83-6a34-47c7-0dc0-5e94210f7983.htm" />
+  <HelpKINode Title="ChatModel.UsuarioMap class" Url="html/a7b73098-0289-a50c-3aab-8757e81447cf.htm" />
+  <HelpKINode Title="ChatUseCase namespace" Url="html/80d8c5fc-5f9b-7a5f-a8d8-a73b03b61630.htm" />
+  <HelpKINode Title="ChatUseCase.ManutencaoMensagem class" Url="html/c683d7bd-c746-74e4-ea45-b741eba5c5d9.htm" />
+  <HelpKINode Title="ChatUseCase.ManutencaoUsuario class" Url="html/77e65157-6a53-f09b-2fc6-40a82a8b6641.htm" />
+  <HelpKINode Title="Insert method">
+    <HelpKINode Title="ManutencaoMensagem.Insert Method " Url="html/302b7216-6c31-8dc9-5d74-71ec93421c16.htm" />
+    <HelpKINode Title="ManutencaoUsuario.Insert Method " Url="html/2d6eaf5e-ae72-5cc6-6f76-0e689f610359.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManutencaoMensagem class">
+    <HelpKINode Title="ManutencaoMensagem Class" Url="html/c683d7bd-c746-74e4-ea45-b741eba5c5d9.htm" />
+    <HelpKINode Title="about ManutencaoMensagem class" Url="html/c683d7bd-c746-74e4-ea45-b741eba5c5d9.htm" />
+    <HelpKINode Title="constructor" Url="html/9d52b1f5-6a8a-2ed7-81f4-a370b6ec0ff1.htm" />
+    <HelpKINode Title="methods" Url="html/930b5b6b-e535-803a-979d-aab2c63a7b89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManutencaoMensagem.Insert method" Url="html/302b7216-6c31-8dc9-5d74-71ec93421c16.htm" />
+  <HelpKINode Title="ManutencaoMensagem.ManutencaoMensagem constructor" Url="html/9d52b1f5-6a8a-2ed7-81f4-a370b6ec0ff1.htm" />
+  <HelpKINode Title="ManutencaoMensagem.Update method" Url="html/5e5913c7-a344-0a7e-733c-ebcba6581cec.htm" />
+  <HelpKINode Title="ManutencaoUsuario class">
+    <HelpKINode Title="ManutencaoUsuario Class" Url="html/77e65157-6a53-f09b-2fc6-40a82a8b6641.htm" />
+    <HelpKINode Title="about ManutencaoUsuario class" Url="html/77e65157-6a53-f09b-2fc6-40a82a8b6641.htm" />
+    <HelpKINode Title="constructor" Url="html/c53d72fc-352d-a59a-7a63-30406fc80280.htm" />
+    <HelpKINode Title="methods" Url="html/a7af8ce1-004a-8b4a-db9a-1b4fb7a48252.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManutencaoUsuario.Insert method" Url="html/2d6eaf5e-ae72-5cc6-6f76-0e689f610359.htm" />
+  <HelpKINode Title="ManutencaoUsuario.ManutencaoUsuario constructor" Url="html/c53d72fc-352d-a59a-7a63-30406fc80280.htm" />
+  <HelpKINode Title="ManutencaoUsuario.Update method" Url="html/a90240e0-2ada-520e-a7bb-6ebad40218de.htm" />
+  <HelpKINode Title="MenDsMensagem property" Url="html/57b94388-a11a-2fcc-c98c-5b279eedbb1a.htm" />
+  <HelpKINode Title="MenDtEnvio property" Url="html/2152fcae-aac9-5795-15ac-e4b8ce4ff681.htm" />
+  <HelpKINode Title="MenIdMensagem property" Url="html/d904c906-2b84-b56b-fc81-d09f2390ca2b.htm" />
+  <HelpKINode Title="Mensagem class">
+    <HelpKINode Title="Mensagem Class" Url="html/586d3959-1dd4-6010-08a5-1f07803b92f6.htm" />
+    <HelpKINode Title="about Mensagem class" Url="html/586d3959-1dd4-6010-08a5-1f07803b92f6.htm" />
+    <HelpKINode Title="constructor" Url="html/9b597c7f-b24d-0da3-2700-a076d4c21b7f.htm" />
+    <HelpKINode Title="methods" Url="html/9c852ba9-3ff7-3625-e390-1cf8c274f58f.htm" />
+    <HelpKINode Title="properties" Url="html/65612739-24d6-ced8-bc14-6b83437331d8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Mensagem.MenDsMensagem property" Url="html/57b94388-a11a-2fcc-c98c-5b279eedbb1a.htm" />
+  <HelpKINode Title="Mensagem.MenDtEnvio property" Url="html/2152fcae-aac9-5795-15ac-e4b8ce4ff681.htm" />
+  <HelpKINode Title="Mensagem.MenIdMensagem property" Url="html/d904c906-2b84-b56b-fc81-d09f2390ca2b.htm" />
+  <HelpKINode Title="Mensagem.Mensagem constructor" Url="html/9b597c7f-b24d-0da3-2700-a076d4c21b7f.htm" />
+  <HelpKINode Title="Mensagem.UsuarioDestino property" Url="html/8a95a110-083d-c219-4738-095714f4f259.htm" />
+  <HelpKINode Title="Mensagem.UsuarioEnvio property" Url="html/55769689-cb6e-33af-b2d1-b24a3ce32363.htm" />
+  <HelpKINode Title="MensagemMap class">
+    <HelpKINode Title="MensagemMap Class" Url="html/d7ad9750-c7ed-cee1-4dc9-e14a57df30d6.htm" />
+    <HelpKINode Title="about MensagemMap class" Url="html/d7ad9750-c7ed-cee1-4dc9-e14a57df30d6.htm" />
+    <HelpKINode Title="constructor" Url="html/85c67e5e-9855-586d-d2bb-bb240fb09aee.htm" />
+    <HelpKINode Title="methods" Url="html/90e63868-9862-66ba-1b5b-a15f6d6ce87f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MensagemMap.MensagemMap constructor" Url="html/85c67e5e-9855-586d-d2bb-bb240fb09aee.htm" />
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="ManutencaoMensagem.Update Method " Url="html/5e5913c7-a344-0a7e-733c-ebcba6581cec.htm" />
+    <HelpKINode Title="ManutencaoUsuario.Update Method " Url="html/a90240e0-2ada-520e-a7bb-6ebad40218de.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UsrDsNickname property" Url="html/2fe3ef26-3a57-0d8c-914b-9225b7997688.htm" />
+  <HelpKINode Title="UsrDtAcesso property" Url="html/7369fc0a-23fd-2a9e-c5b0-7bf371c4911e.htm" />
+  <HelpKINode Title="Usuario class">
+    <HelpKINode Title="Usuario Class" Url="html/ee7c2f83-6a34-47c7-0dc0-5e94210f7983.htm" />
+    <HelpKINode Title="about Usuario class" Url="html/ee7c2f83-6a34-47c7-0dc0-5e94210f7983.htm" />
+    <HelpKINode Title="constructor" Url="html/53cf8e9e-89d8-16ed-af68-6052c8cdd9aa.htm" />
+    <HelpKINode Title="methods" Url="html/f4e74fc4-7dd7-cfcd-c374-e35a94b93626.htm" />
+    <HelpKINode Title="properties" Url="html/b62966d4-9aa9-6414-6121-cd33189c51c5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Usuario.UsrDsNickname property" Url="html/2fe3ef26-3a57-0d8c-914b-9225b7997688.htm" />
+  <HelpKINode Title="Usuario.UsrDtAcesso property" Url="html/7369fc0a-23fd-2a9e-c5b0-7bf371c4911e.htm" />
+  <HelpKINode Title="Usuario.Usuario constructor" Url="html/53cf8e9e-89d8-16ed-af68-6052c8cdd9aa.htm" />
+  <HelpKINode Title="UsuarioDestino property" Url="html/8a95a110-083d-c219-4738-095714f4f259.htm" />
+  <HelpKINode Title="UsuarioEnvio property" Url="html/55769689-cb6e-33af-b2d1-b24a3ce32363.htm" />
+  <HelpKINode Title="UsuarioMap class">
+    <HelpKINode Title="UsuarioMap Class" Url="html/a7b73098-0289-a50c-3aab-8757e81447cf.htm" />
+    <HelpKINode Title="about UsuarioMap class" Url="html/a7b73098-0289-a50c-3aab-8757e81447cf.htm" />
+    <HelpKINode Title="constructor" Url="html/275f775c-31e7-2e08-3688-27b0187f81c6.htm" />
+    <HelpKINode Title="methods" Url="html/6b518840-9234-3cbf-b067-aca70622f28e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UsuarioMap.UsuarioMap constructor" Url="html/275f775c-31e7-2e08-3688-27b0187f81c6.htm" />
+</HelpKI>
